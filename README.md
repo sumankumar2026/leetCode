@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/sumankumar2026/leetCode/tree/master/0907-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sumankumar2026/leetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
