@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sumankumar2026/leetCode/tree/master/0001-two-sum) |
 | [0907-koko-eating-bananas](https://github.com/sumankumar2026/leetCode/tree/master/0907-koko-eating-bananas) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumankumar2026/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
